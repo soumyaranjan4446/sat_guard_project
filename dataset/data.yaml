@@ -1,0 +1,12 @@
+# data.yaml
+path: ../dataset  # dataset root dir
+train: images/train  # train images 
+val: images/val  # val images
+
+# Classes
+names:
+  0: plane
+  1: ship
+  2: storage tank
+  3: base
+  4: military vehicle

@@ -1,0 +1,13 @@
+# Python and environments
+__pycache__/
+myenv/
+venv/
+*.pyc
+
+# Datasets and training logs
+datasets/
+runs/
+yolov8n-obb.pt
+
+# OS files
+.DS_Store
